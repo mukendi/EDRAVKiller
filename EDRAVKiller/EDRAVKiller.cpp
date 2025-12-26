@@ -179,7 +179,7 @@ int main() {
 
     DWORD pid;
 
-    if (LoadDriver(L"K7RKScan", L"C:\\Users\\Macsoft\\Documents\\Drivers\\K7rkscan.sys")) {
+    if (LoadDriver(L"K7RKScan", L"")) {
         printf("[+] Driver Loaded With Success!\n");
     }
 
