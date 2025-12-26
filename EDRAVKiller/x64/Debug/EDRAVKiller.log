@@ -1,0 +1,4 @@
+﻿  EDRAVKiller.cpp
+C:\Users\Macsoft\source\repos\EDRAVKiller\EDRAVKiller\EDRAVKiller.cpp(94,16): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'DWORD (__cdecl *)(void)'
+C:\Users\Macsoft\source\repos\EDRAVKiller\EDRAVKiller\EDRAVKiller.cpp(94,16): warning C4313: 'printf' : '%d' dans la chaîne de format est en conflit avec l'argument 1 de type 'DWORD (__cdecl *)(void)'.
+  EDRAVKiller.vcxproj -> C:\Users\Macsoft\source\repos\EDRAVKiller\x64\Debug\EDRAVKiller.exe
